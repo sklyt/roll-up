@@ -1,6 +1,6 @@
 {
-  "name": "roll-up",
-  "version": "0.0.1",
+  "name": "roll-up.js",
+  "version": "0.0.2",
   "description": "Quick CLI to scaffold rollup + types setup in an existing project",
   "bin": {
     "roll-up": "bin/roll-up.js"

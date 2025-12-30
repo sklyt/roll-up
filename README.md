@@ -8,7 +8,7 @@ A CLI tool that transforms a pure JavaScript project with JSDocs into a typed pr
 
 1. **Setup a project** : `yarn init -y`
 
-2. **In that project**: Run `roll-up --pkg <npm|pnpm|yarn>` to initialize the project with Rollup configuration, TypeScript setup, and necessary dependencies.
+2. **In that project**: Run `npx roll-up --pkg <npm|pnpm|yarn>` to initialize the project with Rollup configuration, TypeScript setup, and necessary dependencies.
 
 3. **Write source code**: Create your JavaScript files in the `src/` directory with JSDocs comments for type annotations.
 
